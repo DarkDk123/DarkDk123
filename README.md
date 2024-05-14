@@ -1,7 +1,6 @@
 <br>
 
 ![Views](https://komarev.com/ghpvc/?username=darkdk123&color=brightgreen&style=flat) [![Followers](https://img.shields.io/github/followers/darkdk123)](https://github.com/darkdk123?tab=followers)
-<br>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30>, I'm Dipesh <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/></h1>
 
@@ -14,14 +13,14 @@
 
 - 💬 Ask me about **Python, Data Science, Open Source**
 
-- 📫 How to reach me - [my contacts below](#-Let's-Connect-)
+- 📫 How to reach me - [my contacts below](#lets-connect-)
 
 - ⚡ Fun fact **I Love Python💘**
 
 <br>
 
 ## 🔥 Languages and Tools ⚙️:
-<p align="left" style="margin-left:20px">
+<p align="left">
   <a href="https://www.python.org">
     <img width="30" align="center" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python Logo" />
   </a>
@@ -33,7 +32,7 @@
   </a>
   <a href="https://en.wikipedia.org/wiki/SQL">  <img width="30" align="center" src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-patterns/sql-edge.svg" alt="SQL Logo" />
   </a>
-  <a style="margin-left:30px;" href="https://pandas.pydata.org/">
+  <a href="https://pandas.pydata.org/">
     <img width="20" align="center" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" alt="Pandas Logo" />
   </a>
   <a href="https://numpy.org/">
@@ -51,7 +50,7 @@
   <a href="https://redis.io/">
     <img width="30" align="center" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis Logo" />
   </a>
-  <a style="margin-left:30px;" href="https://git-scm.com/">
+  <a href="https://git-scm.com/">
     <img width="30" align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" />
   </a>
   <a href="https://linux.org/">
@@ -69,23 +68,21 @@
 
 <p align="center">
     <a href="https://github.com/darkdk123">
-        <img alt="Dipesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=darkdk123&theme=gotham&hide_border=true"/>
+        <img alt="Dipesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=darkdk123&theme=gotham&hide_border=false"/>
     </a>
 </p>
 
 
 ## 📊 My Github Stats
 
-<div>
-  <a href="https://github.com/darkdk123" style="margin-right: 10px;">
-    <img alt="darkdk123's Stats" src="https://github-readme-stats.vercel.app/api?username=darkdk123&theme=gotham&show_icons=true&hide_border=true&count_private=true">
-  </a>
-  <a href="https://github.com/darkdk123">
-    <img alt="darkdk123's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkdk123&theme=gotham&show_icons=true&hide_border=true&layout=compact&size_weight=.4&count_weight=0.6">
+<div align="center">
+  <a align="left" href="https://github.com/darkdk123" >
+    <img  alt="darkdk123's Stats" src="https://github-readme-stats.vercel.app/api?username=darkdk123&theme=gotham&show_icons=true&hide_border=false&count_private=true">
+  </a>___
+  <a align="left" href="https://github.com/darkdk123">
+    <img alt="darkdk123's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkdk123&theme=gotham&show_icons=true&hide_border=false&layout=compact&size_weight=.4&count_weight=0.6">
   </a>
 </div>
-
-
 
 <br>
 
