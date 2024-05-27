@@ -22,45 +22,46 @@
 ## 🔥 Languages and Tools ⚙️:
 <p align="left">
   <a href="https://www.python.org">
-    <img width="30" align="center" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python Logo" />
-  </a>
+    <img width="35" align="center" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python Logo" />
+  </a>&nbsp;
   <a href="https://www.java.com/">
-    <img width="30" align="center" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java Logo" />
-  </a>
+    <img width="35" align="center" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java Logo" />
+  </a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/SQL">
+    <img width="35" align="center" src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-patterns/sql-edge.svg" alt="SQL Logo" />
+  </a>&nbsp;
   <a href="https://www.r-project.org/">
-    <img width="30" align="center" src="https://www.r-project.org/logo/Rlogo.png" alt="R Logo" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/SQL">  <img width="30" align="center" src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-patterns/sql-edge.svg" alt="SQL Logo" />
-  </a>
+    <img width="35" align="center" src="https://www.r-project.org/logo/Rlogo.png" alt="R Logo" />
+  </a>&nbsp;
   <a href="https://pandas.pydata.org/">
     <img width="20" align="center" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" alt="Pandas Logo" />
-  </a>
+  </a>&nbsp;
   <a href="https://numpy.org/">
-    <img width="30" align="center" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy Logo" />
-  </a>
+    <img width="35" align="center" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy Logo" />
+  </a>&nbsp;
   <a href="https://matplotlib.org/">
-    <img width="30" align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/matplotlib-icon.svg" alt="Matplotlib Logo" />
-  </a>
+    <img width="35" align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/matplotlib-icon.svg" alt="Matplotlib Logo" />
+  </a>&nbsp;
   <a href="https://jupyter.org/">
-    <img width="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" />
-  </a>
+    <img width="35" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" />
+  </a>&nbsp;
   <a href="https://www.mysql.com/">
-    <img width="60" align="center" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL Logo" />
-  </a>
+    <img width="70" align="center" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL Logo" />
+  </a>&nbsp;
   <a href="https://redis.io/">
-    <img width="30" align="center" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis Logo" />
-  </a>
+    <img width="35" align="center" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis Logo" />
+  </a>&nbsp;
   <a href="https://git-scm.com/">
-    <img width="30" align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" />
-  </a>
+    <img width="35" align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" />
+  </a>&nbsp;
   <a href="https://linux.org/">
-    <img width="30" align="center" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux Logo" />
-  </a>
-  <a href="https://flask.palletsprojects.com/en/2.3.x/">
+    <img width="35" align="center" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux Logo" />
+  </a>&nbsp;
   <a href="https://fastapi.tiangolo.com/">
-    <img width="30" align="center" src="https://vectorwiki.com/images/i0tvc__fastapi.svg" alt="FastAPI Logo" />
-  </a>
-    <img width="30" align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask Logo" />
+    <img width="35" align="center" src="https://vectorwiki.com/images/i0tvc__fastapi.svg" alt="FastAPI Logo" />
+  </a>&nbsp;
+  <a href="https://flask.palletsprojects.com/en/2.3.x/">
+    <img width="35" align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask Logo" />
   </a>
 </p>
 
@@ -76,9 +77,11 @@
 ## 📊 My Github Stats
 
 <div align="center">
-  <a align="left" href="https://github.com/darkdk123" >
-    <img  alt="darkdk123's Stats" src="https://github-readme-stats.vercel.app/api?username=darkdk123&theme=gotham&show_icons=true&hide_border=false&count_private=true">
-  </a>___
+
+  <a align="left" href="https://github.com/darkdk123">
+    <img alt="darkdk123's Stats" src="https://github-readme-stats.vercel.app/api?username=darkdk123&theme=gotham&show_icons=true&hide_border=false&count_private=true">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="left" href="https://github.com/darkdk123">
     <img alt="darkdk123's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkdk123&theme=gotham&show_icons=true&hide_border=false&layout=compact&size_weight=.4&count_weight=0.6">
   </a>
@@ -93,15 +96,18 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/dipeshrathore1">
-  <img width=30 align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
-</a> 
+  <img width=35 align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
+</a>&nbsp;&nbsp;
 <a href="mailto:dipeshrathore122@gmail.com">
-  <img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="dipeshrathore" height="30" width="40" />
-</a>
+  <img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="dipeshrathore" height="35" width="40" />
+</a>&nbsp;&nbsp;
 <a href="https://www.leetcode.com/dipeshrathore">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipeshrathore" height="30" width="40" />
-</a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipeshrathore" height="35" width="30" />
+</a>&nbsp;&nbsp;
+<a href="https://x.com/DIPESHR25071412">
+  <img width=35 align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"/>
+</a>&nbsp;&nbsp;
 <a href="https://www.github.com/darkdk123">
-  <img width=30 align="center" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png"/>
-</a> 
+  <img width=35 align="center" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png"/>
+</a>&nbsp;&nbsp;
 </p>
