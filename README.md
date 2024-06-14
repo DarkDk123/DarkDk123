@@ -104,8 +104,8 @@
 <a href="https://www.leetcode.com/dipeshrathore">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipeshrathore" height="35" width="30" />
 </a>&nbsp;&nbsp;
-<a href="https://x.com/DIPESHR25071412">
-  <img width=35 align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"/>
+<a href="https://www.kaggle.com/darkdk123">
+  <img width=35 align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.github.com/darkdk123">
   <img width=35 align="center" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png"/>
