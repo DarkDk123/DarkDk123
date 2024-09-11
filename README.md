@@ -7,7 +7,7 @@
 <h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=430&lines=A+Data+enthusiast!;A+Machine+Learning+engineer!" alt="Typing SVG" /></h3>
 
 
-- 🔭 I’m currently exploring [Data Science](https://github.com/DarkDk123/ZTM-ML-Data-Science)
+- 🔭 I’m currently exploring [LangChain & LLMs](https://github.com/DarkDk123?tab=repositories&q=langchain&type=&language=&sort=)
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/DarkDk123?tab=repositories)
 
