@@ -102,7 +102,7 @@
 
 <p align="center">
     <a href="https://github.com/darkdk123">
-        <img alt="Dipesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=darkdk123&theme=gotham&hide_border=false"/>
+        <img alt="Dipesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=darkdk123&theme=gotham&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
 
@@ -112,9 +112,9 @@
 <div align="center">
 
 
-  <img alt="darkdk123's Stats" src="https://github-readme-stats.vercel.app/api?username=darkdk123&theme=gotham&show_icons=true&hide_border=false&count_private=true">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="darkdk123's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkdk123&theme=gotham&show_icons=true&hide_border=false&layout=compact&size_weight=.4&count_weight=0.6">
+  <img alt="darkdk123's Stats" src="https://github-readme-stats.vercel.app/api?username=darkdk123&theme=gotham&hide_border=true&bg_color=0D1117&show_icons=true&count_private=true">
+<!--   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <img alt="darkdk123's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkdk123&theme=gotham&hide_border=true&bg_color=0D1117&show_icons=true&layout=compact&size_weight=.4&count_weight=0.6">
 </div>
 
 <br>
