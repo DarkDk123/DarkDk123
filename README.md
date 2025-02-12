@@ -96,8 +96,14 @@
   <a href="https://jupyter.org/">
     <img width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" />
   </a>&nbsp;
+  <a href="https://docker.com/">
+    <img width="40" align="center" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Jupyter Logo" />
+  </a>&nbsp;
+  </a>&nbsp;
+  <a href="https://github.com/features/actions">
+    <img width="40" align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/github-actions.svg" alt="Jupyter Logo" />
+  </a>&nbsp;
 </p>
-
 <br><br>
 
 <p align="center">
